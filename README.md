@@ -130,3 +130,23 @@ python image_classification.py
 * The project uses CPU for training by default. If CUDA is available, it will automatically switch to GPU.
 ---
 
+![Image](https://github.com/user-attachments/assets/e3c65533-1cd4-48e3-9191-fe5a32135124)
+
+---
+
+![Image](https://github.com/user-attachments/assets/f48c0083-9a44-415e-9b12-b582639e74e8)
+
+---
+
+![Image](https://github.com/user-attachments/assets/d1110fde-e5c5-42aa-9730-b0879c6837f5)
+
+---
+
+![Image](https://github.com/user-attachments/assets/ff030bb1-adc3-4ca0-87a4-b234d8b6eff4)
+
+---
+
+![Image](https://github.com/user-attachments/assets/cb0e811a-d36c-46d1-958b-982bf70e3956)
+
+---
+
